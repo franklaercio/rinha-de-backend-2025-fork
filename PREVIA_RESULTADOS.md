@@ -1,6 +1,6 @@
 # Prévia do Resultados da Rinha de Backend 2025
-Atualizado em **Fri Aug  1 14:01:57 -03 2025**
-       1 submissões /        0 resultados /        1 submissões com erro
+Atualizado em **Sat Aug  2 00:12:58 ESAST 2025**
+1 submissões / 0 resultados / 1 submissões com erro
 
 
 | participante | p99 | bônus por desempenho (%) | multa ($) | lucro | submissão |
@@ -10,4 +10,4 @@ Atualizado em **Fri Aug  1 14:01:57 -03 2025**
 
 | participante | submissão |
 | -- | -- |
-| * | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/*) |
+| franklaercio | [logs](https://github.com/zanfranceschi/rinha-de-backend-2025/tree/main/participantes/franklaercio) |
